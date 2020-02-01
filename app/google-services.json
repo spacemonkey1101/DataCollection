@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "767905434673",
+    "firebase_url": "https://datasutram-cec26.firebaseio.com",
+    "project_id": "datasutram-cec26",
+    "storage_bucket": "datasutram-cec26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767905434673:android:3d38c22f3a97af756d9910",
+        "android_client_info": {
+          "package_name": "com.example.datasutram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767905434673-h1ua9tnc2pelfpn4duig46gpjmqe31vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsfXIr2J7OxVJB_I_iXZ6WGq9qcjgNwoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767905434673-h1ua9tnc2pelfpn4duig46gpjmqe31vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
